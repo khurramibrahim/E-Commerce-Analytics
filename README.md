@@ -207,7 +207,7 @@ Fuzzy-Factory-Ecommerce-Dashboard/
 
 Due to GitHub file size limitations, the Power BI file is hosted externally.
 
-[Download the PBIX File](https://1drv.ms/u/c/82e05d97e57d7ecd/IQD8mL5yE0cFS6uU3GgWI1-iAToKHDtZRqNGdpv5nmpeRWc?e=6bAxts)
+[Download the PBIX File](https://1drv.ms/u/c/82e05d97e57d7ecd/IQD8mL5yE0cFS6uU3GgWI1-iAToKHDtZRqNGdpv5nmpeRWc?e=i6GzNa)
 
 ---
 
